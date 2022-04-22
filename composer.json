@@ -1,0 +1,6 @@
+{
+    "require": {
+        "abraham/twitteroauth": "^2.0",
+        "symfony/yaml": "^5.2"
+    }
+}
